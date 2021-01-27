@@ -75,7 +75,7 @@ p {
     margin-left: 20px;
 }
 
-/* Consolidated all div style elements for the "content" class */
+/* Consolidated all div style elements for the "content" div class */
 .content div {
     margin-bottom: 20px;
     padding: 50px;
@@ -85,12 +85,12 @@ p {
     color: #ffffff;
 }
 
-/* Consolidated all img style elements for the "content" class */
+/* Consolidated all img style elements for the "content" img class */
 .content img {
     max-height: 200px;
 }
 
-/* Consolidated all h2 style elements for the "content" class */
+/* Consolidated all h2 style elements for the "content" h2 class */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
